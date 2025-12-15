@@ -1,4 +1,5 @@
 # 🎬 Prime Video Dashboard (Power BI)
+---
 This project presents an interactive Power BI dashboard built using the Prime Video Movies & TV Shows dataset. The dashboard provides a comprehensive overview of Prime Video’s content library across multiple dimensions such as ratings, genres, release years, countries, and content types.
 ---
 ## 📊 Dashboard Overview
@@ -17,7 +18,10 @@ Displays the most common content ratings (13+, 16+, ALL, 18+, R), helping analyz
 🔹 Top 5 Genres by Total Shows
 Identifies dominant genres such as Drama, Comedy, and Suspense, showing genre popularity.
 
-
+Movies Vs TV Shows
+A donut chart compares:
+- Movies: ~80.8%
+- TV Shows: ~19.2%
 
 ---
 ## Tools & Technologies Used
